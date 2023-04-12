@@ -1,5 +1,6 @@
 {
   "api_version": "3",
+  "required_api_version": "3",
   "authors": "Albin Larsson",
   "name": "Hash",
   "icon": "icon.svg",
